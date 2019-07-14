@@ -1,8 +1,7 @@
-#include "iGraphics.h"
-int mposx,  mposy;
-/*
-    function iDraw() is called again and again by the system.
-*/
+#include"iGraphics.h"
+int mposx,mposy;
+
+
 int a,b;
 int flag=0;
 int ball_x=450;
